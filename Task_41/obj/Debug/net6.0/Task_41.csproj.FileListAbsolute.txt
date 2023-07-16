@@ -1,0 +1,15 @@
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\obj\Debug\net6.0\Task_41.csproj.AssemblyReference.cache
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\obj\Debug\net6.0\Task_41.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\obj\Debug\net6.0\Task_41.AssemblyInfoInputs.cache
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\obj\Debug\net6.0\Task_41.AssemblyInfo.cs
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\obj\Debug\net6.0\Task_41.csproj.CoreCompileInputs.cache
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\bin\Debug\net6.0\Task_41.exe
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\bin\Debug\net6.0\Task_41.deps.json
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\bin\Debug\net6.0\Task_41.runtimeconfig.json
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\bin\Debug\net6.0\Task_41.dll
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\bin\Debug\net6.0\Task_41.pdb
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\obj\Debug\net6.0\Task_41.dll
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\obj\Debug\net6.0\refint\Task_41.dll
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\obj\Debug\net6.0\Task_41.pdb
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\obj\Debug\net6.0\Task_41.genruntimeconfig.cache
+D:\Hyb\GB\C#\DZ_6\DZ_6\Task_41\obj\Debug\net6.0\ref\Task_41.dll
